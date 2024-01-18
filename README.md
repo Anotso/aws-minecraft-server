@@ -1,12 +1,7 @@
 # Minecraft Server on AWS
 
-My 7 years old son is a fan of Minecraft. He started playing last year (2023) and just talk about that. Now, he want to play with us, me and my wife, as well with some cousins.
-
-It's available lots of servers on the internet, both paid or free, but those server don't have the security I want to my kid.
-
-That's because I had the idea of creating my own Minecraft Server on AWS. A server it will be used only by us.
-
-I'm creating this repository to share how I did that and maybe can help other parents (or not) with the same necessity.
+Repo official
+https://github.com/epiresdasilva/aws-minecraft-server
 
 ## Steps
 
